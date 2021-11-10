@@ -2,4 +2,3 @@ wine-stable
 libgl1-mesa-glx
 xvfb
 gfortran
-wine32
